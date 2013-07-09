@@ -27,4 +27,7 @@ Add Google, Twitter, Facebook, Flickr, Vimeo…
 
 ## Trackpad
 ### Point & Click
-* 
+* **&#10004;** **Tap to click**
+* **&#10004;** Secondary click
+* **&#10004;** Look up
+* **&#10004;** Three finger drag
