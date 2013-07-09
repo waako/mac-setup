@@ -50,3 +50,8 @@ List of software, extensions, and how everything is setup.
 [Reeder](http://reederapp.com)  
 [Spectrum](http://www.eigenlogik.com/spectrum/mac)  
 [Skype](http://skype.com)  
+
+## Preference Panes
+
+[Choosy](http://www.choosyosx.com/)  
+[HyperDock](http://hyperdock.bahoom.com/)  
