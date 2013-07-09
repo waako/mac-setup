@@ -7,7 +7,9 @@ List of software, extensions, and how everything is setup.
 
 ## Essential
 
-[1Password](http://agilebits.com/onepassword) *iOS & Dropbox webaccess*  
+[1Password](http://agilebits.com/onepassword)  
+Restore keychain from Dropbox folder (/Apps/1Password)
+
 [Alfred V2 with Powerpack](http://alfredapp.com/)  
 [Cyberduck](http://cyberduck.ch/)  
 [DaisyDisk](http://daisydiskapp.com)  
