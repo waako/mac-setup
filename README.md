@@ -1,7 +1,7 @@
 Waako's Mac setup
 =========
 
-My Mac setup, applications and steps to get everything up and running
+List of software, extensions, and how everything is setup.
 
 # Applications
 
@@ -29,21 +29,21 @@ My Mac setup, applications and steps to get everything up and running
 
 [CleanMyMac 2](http://macpaw.com/cleanmymac)  
 [Doxie](www.getdoxie.com)  
-[Fluid](http://fluidapp.com) *miss 1password integration*  
+[Fluid](http://fluidapp.com) *no 1password integration*  
 [ImageOptim](http://imageoptim.pornel.net)  
 [LiveReload](http://livereload.com)  
 [Sequel Pro](http://sequelpro.com)  
-[The Unarchiver}(http://wakaba.c3.cx/s/apps/unarchiver.html)  
+[The Unarchiver](http://wakaba.c3.cx/s/apps/unarchiver.html)  
 [VLC](http://www.videolan.org)  
 [xScope](http://iconfactory.com/software/xscope)  
 
 ## Useful
 
-[AirMail](http://airmailapp.info/) - *alternative to Sparrow*  
+[AirMail](http://airmailapp.info/) *alternative to Sparrow*  
 [CheatSheet](http://www.grandtotal.biz/CheatSheet/)  
-[Delibar](http://www.delibarapp.com): brings Pinboard & Deilicous to desktop  
-[Eon](http://fuelcollective.com/eon): menu bar time tracking  
-[Flip4Mac](www.telestream.net/flip4mac-wmv/overview.htm) play WMV  
+[Delibar](http://www.delibarapp.com) *brings Pinboard & Delicious to desktop*  
+[Eon](http://fuelcollective.com/eon) *menu bar time tracking*  
+[Flip4Mac](www.telestream.net/flip4mac-wmv/overview.htm) *play WMV*  
 [Flux](http://stereopsis.com/flux/)  
 [Linkinus](http://conceitedsoftware.com/products/linkinus)  
 [Gemini](http://macpaw.com/gemini)  
