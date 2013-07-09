@@ -26,6 +26,8 @@ Restore keychain from Dropbox folder (/Apps/1Password)
 [Sublime Text](www.sublimetext.com) 
 [Vagrant](http://vagrantup.com)  
 [VirtualBox](http://virtualbox.org)  
+[XCode - Developer Tools](https://developer.apple.com/xcode/)  
+*required for terminal tools like homebrew*
 
 ## Tools
 
