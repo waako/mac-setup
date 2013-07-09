@@ -17,6 +17,13 @@ My Mac setup, applications and steps to get everything up and running
 [Glui](http://glui.me)  
 [iTerm](http://iterm2.com)  
 [Kaleidoscope](http://kaleidoscopeapp.com/)  
+[Mozille Firefox](http://www.mozilla.org/firefox/)  
+[Google Chrome](https://chrome.google.com)
+[Apple Safari](http://www.apple.com/safari/)  
+[Sketch](http://www.bohemiancoding.com/sketch/)  
+[Sublime Text](www.sublimetext.com) 
+[Vagrant](http://vagrantup.com)  
+[VirtualBox](http://virtualbox.org)  
 
 ## Tools
 
@@ -25,6 +32,10 @@ My Mac setup, applications and steps to get everything up and running
 [Fluid](http://fluidapp.com) *miss 1password integration*  
 [ImageOptim](http://imageoptim.pornel.net)  
 [LiveReload](http://livereload.com)  
+[Sequel Pro](http://sequelpro.com)  
+[The Unarchiver}(http://wakaba.c3.cx/s/apps/unarchiver.html)  
+[VLC](http://www.videolan.org)  
+[xScope](http://iconfactory.com/software/xscope)  
 
 ## Useful
 
@@ -35,3 +46,7 @@ My Mac setup, applications and steps to get everything up and running
 [Flip4Mac](www.telestream.net/flip4mac-wmv/overview.htm) play WMV  
 [Flux](http://stereopsis.com/flux/)  
 [Linkinus](http://conceitedsoftware.com/products/linkinus)  
+[Gemini](http://macpaw.com/gemini)  
+[Reeder](http://reederapp.com)  
+[Spectrum](http://www.eigenlogik.com/spectrum/mac)  
+[Skype](http://skype.com)  
