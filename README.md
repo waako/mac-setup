@@ -53,7 +53,7 @@ Restore keychain from Dropbox folder (/Apps/1Password)
 [Gemini](http://macpaw.com/gemini)  
 [Reeder](http://reederapp.com)  
 [Spectrum](http://www.eigenlogik.com/spectrum/mac)  
-[Skype](http://skype.com)  
+[Skype](http://skype.com) *better chat style [Brief](https://github.com/miekd/Brief/)*  
 
 ## Preference Panes
 
