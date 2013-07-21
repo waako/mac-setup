@@ -25,8 +25,17 @@ Let's just use homebrew to install it.
     # To save typing your password everytime, see https://help.github.com/articles/set-up-git
     # Set git to use the osxkeychain credential helper
     git config --global credential.helper osxkeychain
+    
+    # check for SSH key, if not create one
+    [[ -f ~/.ssh/id_rsa.pub ]] || ssh-keygen -t rsa -C "tom@halfmesh.com"
+    # remember to use a passphrase, otherwise you run the risk of leaving passphraseless keys on servers.
+    [[ -f ~/.ssh/id_rsa.pub ]] && cat ~/.ssh/id_rsa.pub | pbcopy
+    # add your SSH keys to github https://github.com/account/ssh
+    
+If you are the type that doesn't like entering their passphrase all the time, have a look at SSH agent forwarding https://help.github.com/articles/using-ssh-agent-forwarding.
+    
    
-
+If you're not using the dotfiles below, remember to add .DS_Store to your global .gitignore file.
 
 
 **Dotfiles**  
