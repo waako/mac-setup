@@ -10,12 +10,22 @@ Package manager http://brew.sh
 
     ruby <(curl -fsSkL raw.github.com/mxcl/homebrew/go)
 
-**Zsh &amp; Oh-My-Zsh**  
+**Zsh &amp; Oh-My-Zsh**
 
     curl -L https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh | sh
 
+**Git**  
+Let's just use homebrew to install it.
 
-
+    brew install git
+    # global settings
+    git config --global user.name "Tom Bamford"
+    git config --global user.email "tom@halfmesh.com"
+    
+    # To save typing your password everytime, see https://help.github.com/articles/set-up-git
+    # Set git to use the osxkeychain credential helper
+    git config --global credential.helper osxkeychain
+   
 
 
 
