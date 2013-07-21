@@ -8,12 +8,15 @@ Mac OS 10.8 setup
 * Choose 'Anywhere'
 
 ## Mail, Contacts & Calendars
-Add Google, Twitter, Facebook, Flickr, Vimeo…
+Add Twitter, Facebook, Flickr, Vimeo…
+* **Google Contacts sync** Add Other Account… > Add a CardDav account > server:google.com
+* **Google Mail, Calendar…** Google > select other services you want to enable
+
 
 ## Mission Control
 ### Hot Corners
-* **Top-Right** Notification Center (faster than menu bar button)
-* **Top-Left** Application Windows
+* **Top-Right** Application Windows
+* **Top-Left** Mission Control
 * **Bottom-Right** Desktop
 
 ## Dock
