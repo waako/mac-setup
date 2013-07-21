@@ -8,7 +8,8 @@ Mac OS 10.8 setup
 * Choose 'Anywhere'
 
 ## Mail, Contacts & Calendars
-Add Twitter, Facebook, Flickr, Vimeo…
+Add Twitter, Facebook, Flickr, Vimeo…  
+
 * **Google Contacts sync** Add Other Account… > Add a CardDav account > server:google.com
 * **Google Mail, Calendar…** Google > select other services you want to enable
 
