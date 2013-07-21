@@ -36,7 +36,7 @@ Restore keychain from Dropbox folder (/Apps/1Password)
 [Fluid](http://fluidapp.com) *no 1password integration*  
 [ImageOptim](http://imageoptim.pornel.net)  
 [LiveReload](http://livereload.com)  
-[Sequel Pro](http://sequelpro.com)  
+[Sequel Pro](http://sequelpro.com) or [Induction](http://inductionapp.com)  
 [The Unarchiver](http://wakaba.c3.cx/s/apps/unarchiver.html)  
 [VLC](http://www.videolan.org)  
 [xScope](http://iconfactory.com/software/xscope)  
