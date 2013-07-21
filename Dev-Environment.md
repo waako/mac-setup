@@ -12,6 +12,7 @@ Package manager http://brew.sh
 
 **Zsh &amp; Oh-My-Zsh**
 
+    brew install zsh
     curl -L https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh | sh
 
 **Git**  
