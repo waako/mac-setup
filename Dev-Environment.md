@@ -10,6 +10,6 @@ Let everyone know where Xcode is:
 
     sudo xcode-select -switch /Applications/Xcode.app/Contents/Developer
 
-**HomeBrew**  
+**Homebrew**  
 Package manager http://brew.sh
 
