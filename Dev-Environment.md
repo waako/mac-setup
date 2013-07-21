@@ -13,3 +13,10 @@ Let everyone know where Xcode is:
 **Homebrew**  
 Package manager http://brew.sh
 
+
+
+
+
+
+
+*To discover all the hidden Mac OS X settings you could ever think of, go to http://lri.me/osx.html#hidden-preferences*
