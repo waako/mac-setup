@@ -14,6 +14,8 @@ Package manager http://brew.sh
 
     brew install zsh
     curl -L https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh | sh
+    # tell iTerm2 to use zsh instead of bash
+    chsh -s /bin/zsh
 
 **Git**  
 Let's just use homebrew to install it.
