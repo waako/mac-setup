@@ -65,3 +65,13 @@ Keeps your dot files fresh http://freshshell.com
 Install the latest stable version of Drush using homebrew
 
     brew install drush
+
+RVM
+
+    curl -L https://get.rvm.io | bash -s stable --ruby
+
+Append to .zshrc
+
+    [[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm"  # This loads RVM into a shell session
+
+
