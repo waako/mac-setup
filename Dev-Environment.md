@@ -38,7 +38,7 @@ Let's just use homebrew to install it.
     brew install git-extras
 
 **SSH Keys**  
-*You can always copy over your SSH keys, and settings, from old machine, so you don't have to add your keys to every server/service*
+*If you'd rather copy your keys over, have a look at [Mackup](https://github.com/lra/mackup)*
     
     # check for SSH key, if not create one
     [[ -f ~/.ssh/id_rsa.pub ]] || ssh-keygen -t rsa -C "tom@halfmesh.com"
