@@ -13,31 +13,31 @@
 	git checkout python3
 
 
-### Packages
+### Plugins
 
-[**Github flavor Markdown**](https://github.com/revolunet/sublimetext-markdown-preview) 
-[**Advanced New File**](https://github.com/skuroda/Sublime-AdvancedNewFile) 
-[**CheckBounce**](https://github.com/phyllisstein/CheckBounce) *Spellcheck* 
-[**Code Formatter**](https://github.com/akalongman/sublimetext-codeformatter) 
-[**SideBarEnhancements**](https://github.com/titoBouzout/SideBarEnhancements) 
-[**GotoRecent**](https://github.com/paccator/GotoRecent) 
-[**Gist**](https://github.com/condemil/Gist) 
-[**ALL Autocomplete**](https://github.com/alienhard/SublimeAllAutocomplete) 
-[**Emmet**](http://docs.emmet.io/) 
-[**SublimeLinter**](http://github.com/Kronuz/SublimeLinter) 
-[**HTML5**](https://github.com/mrmartineau/HTML5) 
-[**SCSS](https://github.com/kuroir/SCSS.tmbundle/tree/SublimeText2) 
-[**ColorHighlighter**](https://github.com/Monnoroch/ColorHighlighter) 
+[**Github flavor Markdown**](https://github.com/revolunet/sublimetext-markdown-preview)  
+[**Advanced New File**](https://github.com/skuroda/Sublime-AdvancedNewFile)  
+[**CheckBounce**](https://github.com/phyllisstein/CheckBounce) *Spellcheck*  
+[**Code Formatter**](https://github.com/akalongman/sublimetext-codeformatter)  
+[**SideBarEnhancements**](https://github.com/titoBouzout/SideBarEnhancements)  
+[**GotoRecent**](https://github.com/paccator/GotoRecent)  
+[**Gist**](https://github.com/condemil/Gist)  
+[**ALL Autocomplete**](https://github.com/alienhard/SublimeAllAutocomplete)  
+[**Emmet**](http://docs.emmet.io/)  
+[**SublimeLinter**](http://github.com/Kronuz/SublimeLinter)  
+[**HTML5**](https://github.com/mrmartineau/HTML5)  
+[**SCSS](https://github.com/kuroir/SCSS.tmbundle/tree/SublimeText2)  
+[**ColorHighlighter**](https://github.com/Monnoroch/ColorHighlighter)  
 [**CSS Comb**](http://csscomb.com/)
 
 
 ### Extras
 
-**Icon replacement** https://github.com/dmatarazzo/Sublime-Text-2-Icon 
-**Mardown Preview** https://github.com/revolunet/sublimetext-markdown-preview 
-**Web Inspector** http://sokolovstas.github.io/SublimeWebInspector/ 
-**Source Code Pro font** http://blogs.adobe.com/cantrell/archives/2012/10/using-source-code-pro-with-sublime-text-2.html 
-**Puppet** https://github.com/alister/puppet-sublimetext2 
+**Icon replacement** https://github.com/dmatarazzo/Sublime-Text-2-Icon  
+**Mardown Preview** https://github.com/revolunet/sublimetext-markdown-preview  
+**Web Inspector** http://sokolovstas.github.io/SublimeWebInspector/  
+**Source Code Pro font** http://blogs.adobe.com/cantrell/archives/2012/10/using-source-code-pro-with-sublime-text-2.html  
+**Puppet** https://github.com/alister/puppet-sublimetext2  
 
 
 

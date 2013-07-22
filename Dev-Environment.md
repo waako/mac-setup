@@ -34,8 +34,7 @@ Let's just use homebrew to install it.
     # add your SSH keys to github https://github.com/account/ssh
     
 If you are the type that doesn't like entering their passphrase all the time, have a look at SSH agent forwarding https://help.github.com/articles/using-ssh-agent-forwarding.
-    
-   
+
 If you're not using the dotfiles below, remember to add .DS_Store to your global .gitignore file.
 
 
