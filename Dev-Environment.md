@@ -17,6 +17,8 @@ Package manager http://brew.sh
     # tell iTerm2 to use zsh instead of bash
     chsh -s /bin/zsh
 
+*don't forget to enable all the plugins you'll need https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins*
+
 **Git**  
 Let's just use homebrew to install it.
 
@@ -31,7 +33,12 @@ Let's just use homebrew to install it.
 
 *If you're not using the dotfiles below, remember to add .DS_Store to your global .gitignore file.*
 
-**SSH Keys**
+[**Git Extras**](https://github.com/visionmedia/git-extras)
+
+    brew install git-extras
+
+**SSH Keys**  
+*You can always copy over your SSH keys, and settings, from old machine, so you don't have to add your keys to every server/service*
     
     # check for SSH key, if not create one
     [[ -f ~/.ssh/id_rsa.pub ]] || ssh-keygen -t rsa -C "tom@halfmesh.com"
