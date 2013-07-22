@@ -2,9 +2,31 @@
 
 ## Sublime Text
 
+### Must have
+
+**Package Control** http://wbond.net/sublime_packages/package_control/installation#ST3  
+*Please note, the Packages/ folder listed below refers to the folder that opens when you use the Preferences > Browse Packages… menu.*  
+
+    cd Packages/
+	git clone https://github.com/wbond/sublime_package_control.git "Package Control"
+	cd "Package Control"
+	git checkout python3
+  
+
+
+
+### Plugins
+
+**Github flavor Markdown**
+
+
+### Extras
+
+**Icon replacement** https://github.com/dmatarazzo/Sublime-Text-2-Icon  
+**Mardown Preview** https://github.com/revolunet/sublimetext-markdown-preview  
 **Web Inspector** http://sokolovstas.github.io/SublimeWebInspector/  
-
-
+**Source Code Pro font** http://blogs.adobe.com/cantrell/archives/2012/10/using-source-code-pro-with-sublime-text-2.html  
+**Puppet** https://github.com/alister/puppet-sublimetext2  
 
 
 
