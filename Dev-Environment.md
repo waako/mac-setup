@@ -27,8 +27,16 @@ list of [local](gems.md) installed gems:
 
     brew install zsh
     curl -L https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh | sh
+
+    # add the following line in ~/.bashrc and ~/.zshrc
+    PATH="/usr/local/bin:/usr/local/sbin:$PATH"
+    # if you want to be sure that homebrew's zsh is used, and not the version shipped with OS 10.8, you'll need to add to do
+    sudo nano /etc/shells
+    # add the path to the newer version of zsh
+    /usr/local/bin/zsh
+
     # tell iTerm2 to use zsh instead of bash
-    chsh -s /bin/zsh
+    chsh -s /usr/local/bin/zsh
 
 *don't forget to enable all the plugins you'll need https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins*
 
