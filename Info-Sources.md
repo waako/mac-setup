@@ -15,6 +15,8 @@
 
 ### Plugins
 
+I'm going with Sublime Text 3 here, so you may want to check which [plugins are compatible](https://github.com/wbond/sublime_package_control/wiki/Sublime-Text-3-Compatible-Packages)
+
 [**Github flavor Markdown**](https://github.com/revolunet/sublimetext-markdown-preview)  
 [**Advanced New File**](https://github.com/skuroda/Sublime-AdvancedNewFile)  
 [**CheckBounce**](https://github.com/phyllisstein/CheckBounce) *Spellcheck*  
