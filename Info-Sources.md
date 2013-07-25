@@ -56,3 +56,11 @@ http://net.tutsplus.com/articles/news/perfect-workflow-in-sublime-text-free-cour
 ````bash
 wget https://az412801.vo.msecnd.net/vhd/IEKitV1_Final/VirtualBox/OSX/IE6_WinXP.ova.zip & curl -O "https://az412801.vo.msecnd.net/vhd/IEKitV1_Final/VirtualBox/OSX/IE8_XP/IE8.XP.For.MacVirtualBox.ova" & curl -O "https://az412801.vo.msecnd.net/vhd/IEKitV1_Final/VirtualBox/OSX/IE7_Vista/IE7.Vista.For.MacVirtualBox.part{1.sfx,2.rar,3.rar,4.rar,5.rar}" & curl -O "https://az412801.vo.msecnd.net/vhd/IEKitV1_Final/VirtualBox/OSX/IE8_Win7/IE8.Win7.For.MacVirtualBox.part{1.sfx,2.rar,3.rar,4.rar,5.rar,6.rar}" & curl -O "https://az412801.vo.msecnd.net/vhd/IEKitV1_Final/VirtualBox/OSX/IE9_Win7/IE9.Win7.For.MacVirtualBox.part{1.sfx,2.rar,3.rar,4.rar,5.rar}" & curl -O "https://az412801.vo.msecnd.net/vhd/IEKitV1_Final/VirtualBox/OSX/IE10_Win7/IE10.Win7.For.MacVirtualBox.part{1.sfx,2.rar,3.rar,4.rar}" & curl -O "https://az412801.vo.msecnd.net/vhd/IEKitV1_Final/VirtualBox/OSX/IE10_Win8/IE10.Win8.For.MacVirtualBox.part{1.sfx,2.rar,3.rar}"
 ````
+
+ ## Setup articles for front-end devs
+
+ [http://www.evanlovely.com/my-awesome-mac-setup/](http://www.evanlovely.com/my-awesome-mac-setup/)  
+ [http://dsheiko.com/weblog/my-lovely-mac-os-x-web-development-environment](http://dsheiko.com/weblog/my-lovely-mac-os-x-web-development-environment)  
+ [https://medium.com/better-humans/380d06bd5cbf](https://medium.com/better-humans/380d06bd5cbf)  
+ [https://github.com/nicolashery/mac-dev-setup](https://github.com/nicolashery/mac-dev-setup)  
+ [https://gist.github.com/dvessel/1610551](https://gist.github.com/dvessel/1610551) < Dvessel gist for SASS & Compass with LiveReload via Guard
