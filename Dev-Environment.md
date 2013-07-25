@@ -38,7 +38,9 @@ list of [local](gems.md) installed gems:
     # tell iTerm2 to use zsh instead of bash
     chsh -s /usr/local/bin/zsh
 
-*don't forget to enable all the plugins you'll need https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins*
+*don't forget to enable all the plugins you'll need https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins in your <pre>~/.zshrc</pre>*
+
+    plugins=(git ruby bower brew bundler gem github jira macports osx sublime vagrant web-search)
 
 **Git**  
 Let's just use homebrew to install it.
