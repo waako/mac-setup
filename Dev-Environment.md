@@ -107,3 +107,16 @@ Current setup at https://github.com/drupaldev-nginx
 #### Puppet
 Also look at http://puphpet.com
 
+## Front-end tools
+
+First check Ruby gems are up to date
+    gem update --system
+
+[**SASS**](http://sass-lang.com/)
+    gem install sass
+
+[**Compass**](http://compass-style.org/install/)
+    gem install compass
+
+[**Singularity**](http://singularity.gs/)
+    gem install singularitygs
