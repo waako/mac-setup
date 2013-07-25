@@ -120,3 +120,5 @@ First check Ruby gems are up to date
 
 [**Singularity**](http://singularity.gs/)
     gem install singularitygs
+
+*Use [Bundler](http://bundler.io/) Gemfile to define your project's dependencies*
