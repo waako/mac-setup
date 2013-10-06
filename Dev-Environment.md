@@ -1,4 +1,3 @@
-
 **Xcode**  
 Install via Mac App Store, run once to Agree to License.  
 Let everyone know where Xcode is:
@@ -55,9 +54,10 @@ If you haven't already got your own dotfiles repository, then go to [dotfiles.gi
 **Fresh**  
 Keeps your dot files fresh http://freshshell.com
 
-
 *To discover all the hidden Mac OS X settings you could ever think of, go to http://lri.me/osx.html#hidden-preferences*
 
+**Zero Hosts File**
+Template /etc/hosts file which stops porn, ads and other sites from functioning by pointing to localhost: http://someonewhocares.org/hosts/zero/
 
 ### Drupal
 
