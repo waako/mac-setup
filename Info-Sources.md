@@ -1,4 +1,4 @@
-# Categorised list of reading for setting up Mac environment
+# List of tools and add-ons
 
 ## Sublime Text
 
