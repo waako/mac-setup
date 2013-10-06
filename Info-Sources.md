@@ -1,8 +1,8 @@
 # List of tools and add-ons
 
-## Sublime Text
+## [Sublime Text](www.sublimetext.com)
 
-### Must have
+
 
 **Package Control** http://wbond.net/sublime_packages/package_control/installation#ST3  
 *Please note, the Packages/ folder listed below refers to the folder that opens when you use the Preferences > Browse Packages… menu.*  
@@ -39,7 +39,11 @@
 **Source Code Pro font** http://blogs.adobe.com/cantrell/archives/2012/10/using-source-code-pro-with-sublime-text-2.html  
 **Puppet** https://github.com/alister/puppet-sublimetext2  
 
-
+### Other reading  
+https://github.com/mrmartineau/SublimeTextSetup/wiki  
+http://net.tutsplus.com/articles/news/perfect-workflow-in-sublime-text-free-course/  
+[Starred GitHub Repositories about Sublime](https://github.com/stars?q=sublime)  
+[Pinboard list of Sublime bookmarks](https://pinboard.in/search/u:waako?query=Sublime)  
 
 
 ## Browser Testing
