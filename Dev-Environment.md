@@ -75,3 +75,13 @@ Append to .zshrc
     [[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm"  # This loads RVM into a shell session
 
 
+### Vagrant
+
+Current setup at https://github.com/drupaldev-nginx  
+
+**vagrant-vbplugin** Vagrant plugin which automatically installs the host's VirtualBox Guest Additions on the guest system  
+````bash gem install vagrant-vbguest```` or [GitHub repo](https://github.com/dotless-de/vagrant-vbguest)
+
+#### Puppet
+Also look at http://puphpet.com
+
