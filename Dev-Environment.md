@@ -9,6 +9,20 @@ Package manager http://brew.sh
 
     ruby <(curl -fsSkL raw.github.com/mxcl/homebrew/go)
 
+list of [local](gems.md) installed gems:  
+* bundler
+* compass
+* compass-normalize
+* github
+* psd (no idea how to use)
+* puppet
+* rack
+* rhc (redhat's OpenShift)
+* sass
+* singularitygs
+* vagrant-vbguest
+
+
 **Zsh &amp; Oh-My-Zsh**
 
     brew install zsh
