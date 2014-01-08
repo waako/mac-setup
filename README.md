@@ -6,6 +6,25 @@ List of software, extensions, and how everything is setup.
 # Mac OS X Applications
 
 ## Essential
+[Mozilla Firefox](http://www.mozilla.org/firefox/)
+[Google Chrome](https://chrome.google.com)
+[Apple Safari](http://www.apple.com/safari/)
+[Lasspass](https://lastpass.com/)
+[Alfred V2 with Powerpack](http://alfredapp.com/)
+[DaisyDisk](http://daisydiskapp.com)
+[Dropbox](http://dropbox.com/)
+[Evernote](http://evernote.com)
+[iTerm](http://iterm2.com)
+[ssh keys](https://help.github.com/articles/generating-ssh-keys#platform-mac)
+[Git](http://git-scm.com/download/mac)
+[oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+[Sublime Text 2](http://www.sublimetext.com/2)
+_remember plugins for drupal etc_
+[Vagrant](http://vagrantup.com)
+[VirtualBox](http://virtualbox.org)
+[XCode - Developer Tools](https://developer.apple.com/xcode)
+*required for terminal tools like homebrew*
+Also remember to open and accept T&C etc otherwise annoying error on terminal will happen
 
 * [1Password](http://agilebits.com/onepassword)
 Restore keychain from Dropbox folder (/Apps/1Password)
