@@ -6,21 +6,21 @@ List of software, extensions, and how everything is setup.
 # Mac OS X Applications
 
 ## Essential
-[Mozilla Firefox](http://www.mozilla.org/firefox/)
-[Google Chrome](https://chrome.google.com) _+Extensions: Last Pass, Evernote Webclipper, MonoSnap, Pinboard Plus, Tab Cloud_
-[Apple Safari](http://www.apple.com/safari/)
-[Last Pass](https://lastpass.com/)
-[Alfred V2 with Powerpack](http://alfredapp.com/)
-[DaisyDisk](http://daisydiskapp.com)
-[Dropbox](http://dropbox.com/)
-[Evernote](http://evernote.com)
-[XCode - Developer Tools](https://developer.apple.com/xcode)  *Required for terminal tools like homebrew*
-[iTerm](http://iterm2.com)
-[Git](http://git-scm.com)  _Remember perms for downloads to be allowed for unknown developers_
+[Mozilla Firefox](http://www.mozilla.org/firefox/)    
+[Google Chrome](https://chrome.google.com) _+Extensions: Last Pass, Evernote Webclipper, MonoSnap, Pinboard Plus, Tab Cloud_  
+[Apple Safari](http://www.apple.com/safari/)  
+[Last Pass](https://lastpass.com/)  
+[Alfred V2 with Powerpack](http://alfredapp.com/)   
+[DaisyDisk](http://daisydiskapp.com)    
+[Dropbox](http://dropbox.com/)   
+[Evernote](http://evernote.com)  
+[XCode - Developer Tools](https://developer.apple.com/xcode)  *Required for terminal tools like homebrew*  
+[iTerm](http://iterm2.com)   
+[Git](http://git-scm.com)  _Remember perms for downloads to be allowed for unknown developers_  
 [ssh keys](https://help.github.com/articles/generating-ssh-keys#platform-mac)
-[Git](http://git-scm.com/download/mac)
-[oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
-[Sublime Text 2](http://www.sublimetext.com/2)  _Remember plugins for drupal etc_
+[Git](http://git-scm.com/download/mac)  
+[oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)   
+[Sublime Text 2](http://www.sublimetext.com/2)  _Remember plugins for drupal etc_  
 [Vagrant](http://vagrantup.com)    
 [VirtualBox](http://virtualbox.org)  
 
@@ -65,7 +65,7 @@ Restore keychain from Dropbox folder (/Apps/1Password)
 [Cinch](http://www.irradiatedsoftware.com/cinch)   
 [Skype](http://skype.com) *better chat style [Brief](https://github.com/miekd/Brief/)*  
 [Adium](https://adium.im/)  
-[Fluid App](http://fluidapp.com)
+[Spectrum](http://www.eigenlogik.com/spectrum/mac)  
 
 * [AirMail](http://airmailapp.info/) *alternative to Sparrow*
 * [CheatSheet](http://www.grandtotal.biz/CheatSheet/)
