@@ -7,9 +7,9 @@ List of software, extensions, and how everything is setup.
 
 ## Essential
 [Mozilla Firefox](http://www.mozilla.org/firefox/)
-[Google Chrome](https://chrome.google.com)
+[Google Chrome](https://chrome.google.com) _+Extensions: Last Pass, Evernote Webclipper, MonoSnap, Pinboard Plus, Tab Cloud_
 [Apple Safari](http://www.apple.com/safari/)
-[Lasspass](https://lastpass.com/)
+[Last Pass](https://lastpass.com/)
 [Alfred V2 with Powerpack](http://alfredapp.com/)
 [DaisyDisk](http://daisydiskapp.com)
 [Dropbox](http://dropbox.com/)
