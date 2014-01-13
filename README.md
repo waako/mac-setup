@@ -14,17 +14,17 @@ List of software, extensions, and how everything is setup.
 [DaisyDisk](http://daisydiskapp.com)    
 [Dropbox](http://dropbox.com/)   
 [Evernote](http://evernote.com)  
-[XCode - Developer Tools](https://developer.apple.com/xcode)  *Required for terminal tools like homebrew*  
+[XCode - Developer Tools](https://developer.apple.com/xcode)  *Required for terminal tools like homebrew, Also remember to open and accept T&C etc otherwise annoying error on terminal will happen*
 [iTerm](http://iterm2.com)   
 [Git](http://git-scm.com)  _Remember perms for downloads to be allowed for unknown developers_  
 [ssh keys](https://help.github.com/articles/generating-ssh-keys#platform-mac)
 [Git](http://git-scm.com/download/mac)  
 [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)   
 [Sublime Text 2](http://www.sublimetext.com/2)  _Remember plugins for drupal etc_  
+Sublime text 2 plugins: https://github.com/enzolutions/sublime-drupal <-- follow this tep by step! Don't skip any of it!
 [Vagrant](http://vagrantup.com)    
 [VirtualBox](http://virtualbox.org)  
 
-Also remember to open and accept T&C etc otherwise annoying error on terminal will happen      
 
 * [1Password](http://agilebits.com/onepassword)
 Restore keychain from Dropbox folder (/Apps/1Password)
