@@ -4,7 +4,7 @@
 
 
 
-**Package Control** http://wbond.net/sublime_packages/package_control/installation#ST3
+**Package Control** [http://wbond.net/sublime_packages/package_control/installation#ST3](http://wbond.net/sublime_packages/package_control/installation#ST3)
 *Please note, the Packages/ folder listed below refers to the folder that opens when you use the Preferences > Browse Packages… menu.*
 
     cd Packages/
