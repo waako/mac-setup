@@ -38,7 +38,7 @@ I'm going with Sublime Text 3 here, so you may want to check which [plugins are 
 * [**Icon replacement**](https://github.com/dmatarazzo/Sublime-Text-2-Icon)
 * [**Mardown Preview**](https://github.com/revolunet/sublimetext-markdown-preview)
 * [**Web Inspector**](http://sokolovstas.github.io/SublimeWebInspector/)
-* [**Source Code Pro font**](http://blogs.adobe.com/cantrell/archives/2012/10/using-source-code-pro-with-)sublime-text-2.html
+* [**Source Code Pro font**](http://blogs.adobe.com/cantrell/archives/2012/10/using-source-code-pro-with-sublime-text-2.html)
 * [**Puppet**](https://github.com/alister/puppet-sublimetext2)
 
 ### Other reading  
