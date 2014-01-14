@@ -4,8 +4,8 @@
 
 
 
-**Package Control** http://wbond.net/sublime_packages/package_control/installation#ST3  
-*Please note, the Packages/ folder listed below refers to the folder that opens when you use the Preferences > Browse Packages… menu.*  
+**Package Control** http://wbond.net/sublime_packages/package_control/installation#ST3
+*Please note, the Packages/ folder listed below refers to the folder that opens when you use the Preferences > Browse Packages… menu.*
 
     cd Packages/
 	git clone https://github.com/wbond/sublime_package_control.git "Package Control"
@@ -35,11 +35,11 @@ I'm going with Sublime Text 3 here, so you may want to check which [plugins are 
 
 ### Extras
 
-**Icon replacement** https://github.com/dmatarazzo/Sublime-Text-2-Icon  
-**Mardown Preview** https://github.com/revolunet/sublimetext-markdown-preview  
-**Web Inspector** http://sokolovstas.github.io/SublimeWebInspector/  
-**Source Code Pro font** http://blogs.adobe.com/cantrell/archives/2012/10/using-source-code-pro-with-sublime-text-2.html  
-**Puppet** https://github.com/alister/puppet-sublimetext2  
+**Icon replacement** https://github.com/dmatarazzo/Sublime-Text-2-Icon
+**Mardown Preview** https://github.com/revolunet/sublimetext-markdown-preview
+**Web Inspector** http://sokolovstas.github.io/SublimeWebInspector/
+**Source Code Pro font** http://blogs.adobe.com/cantrell/archives/2012/10/using-source-code-pro-with-sublime-text-2.html
+**Puppet** https://github.com/alister/puppet-sublimetext2
 
 ### Other reading  
 https://github.com/mrmartineau/SublimeTextSetup/wiki  
@@ -59,8 +59,8 @@ wget https://az412801.vo.msecnd.net/vhd/IEKitV1_Final/VirtualBox/OSX/IE6_WinXP.o
 
  ## Setup articles for front-end devs
 
- [http://www.evanlovely.com/my-awesome-mac-setup/](http://www.evanlovely.com/my-awesome-mac-setup/)  
- [http://dsheiko.com/weblog/my-lovely-mac-os-x-web-development-environment](http://dsheiko.com/weblog/my-lovely-mac-os-x-web-development-environment)  
- [https://medium.com/better-humans/380d06bd5cbf](https://medium.com/better-humans/380d06bd5cbf)  
- [https://github.com/nicolashery/mac-dev-setup](https://github.com/nicolashery/mac-dev-setup)  
- [https://gist.github.com/dvessel/1610551](https://gist.github.com/dvessel/1610551) < Dvessel gist for SASS & Compass with LiveReload via Guard
+[http://www.evanlovely.com/my-awesome-mac-setup/](http://www.evanlovely.com/my-awesome-mac-setup/)  
+[http://dsheiko.com/weblog/my-lovely-mac-os-x-web-development-environment](http://dsheiko.com/weblog/my-lovely-mac-os-x-web-development-environment)  
+[https://medium.com/better-humans/380d06bd5cbf](https://medium.com/better-humans/380d06bd5cbf)  
+[https://github.com/nicolashery/mac-dev-setup](https://github.com/nicolashery/mac-dev-setup)  
+[https://gist.github.com/dvessel/1610551](https://gist.github.com/dvessel/1610551) < Dvessel gist for SASS & Compass with LiveReload via Guard
