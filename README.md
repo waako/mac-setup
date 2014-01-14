@@ -18,13 +18,13 @@ List of software, extensions, and how everything is setup.
 [iTerm](http://iterm2.com)   
 [Git](http://git-scm.com)  _Remember perms for downloads to be allowed for unknown developers_  
 [ssh keys](https://help.github.com/articles/generating-ssh-keys#platform-mac)
-[Git](http://git-scm.com/download/mac)
-[oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
-[Sublime Text 2](http://www.sublimetext.com/2)
-Sublime text 2 plugins:
-https://github.com/enzolutions/sublime-drupal <-- follow this step by step! Don't skip any of it!
-[Vagrant](http://vagrantup.com)
-[VirtualBox](http://virtualbox.org)
+[Git](http://git-scm.com/download/mac)  
+[oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)   
+[Sublime Text 2](http://www.sublimetext.com/2)   
+Sublime text 2 plugins:  
+https://github.com/enzolutions/sublime-drupal <-- follow this step by step! Dont skip any of it!
+[Vagrant](http://vagrantup.com)    
+[VirtualBox](http://virtualbox.org)  
 
 
 * [1Password](http://agilebits.com/onepassword)
