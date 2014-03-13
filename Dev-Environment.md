@@ -109,6 +109,20 @@ Current setup at https://github.com/drupaldev-nginx
 #### Puppet
 Also look at http://puphpet.com
 
+#### Ngrok
+
+[Ngrok](https://ngrok.com/) allows you to make your local environment accessible externally on a port you define
+
+* [Download Ngrok](https://ngrok.com/download)
+* Extract file
+* copy ngrok file to /usr/bin
+* run ``ngrok`` in command line, followed by port you want to open. See [Documentation](https://ngrok.com/usage) for more info.
+* add the url generated i.e. n348gh.ngrok.com to site vhost file
+* restart Apache.
+
+For example, you can tell ngrok to use a specific subdomain and basic httpauth:  
+$ ``ngrok -subdomain="my-subdomain" -httpauth="user:password" 8080``
+
 ## Front-end tools
 
 First check Ruby gems are up to date
