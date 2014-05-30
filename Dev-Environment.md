@@ -10,12 +10,16 @@ RVM
 
     \curl -sSL https://get.rvm.io | bash -s stable --rails --autolibs=enabled --auto-dotfiles
     source /Users/waako/.rvm/scripts/rvm
+    rvm requirements
+    rvm install 2.1.1(change to up-to-date version)
 
+Installing an up to date version of Ruby will allow to run ````gem install package```` without sudo.
 
 **Homebrew**  
 Package manager http://brew.sh
 
     ruby <(curl -fsSkL raw.github.com/mxcl/homebrew/go)
+    brew doctor
 
 list of [local](gems.md) installed gems:  
 * bundler
