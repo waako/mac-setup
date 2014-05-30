@@ -1,10 +1,14 @@
-**Xcode**  
+# Dev Environment
+
+
+## Xcode
 Install via Mac App Store, run once to Agree to License.  
 Let everyone know where Xcode is:
 
     sudo xcode-select -switch /Applications/Xcode.app/Contents/Developer
 
-**Ruby**
+
+## Ruby
 
 RVM
 
@@ -15,7 +19,9 @@ RVM
 
 Installing an up to date version of Ruby will allow to run ````gem install package```` without sudo.
 
-**Homebrew**  
+
+## Homebrew
+
 Package manager http://brew.sh
 
     ruby <(curl -fsSkL raw.github.com/mxcl/homebrew/go)
@@ -35,7 +41,8 @@ list of [local](gems.md) installed gems:
 * vagrant-vbguest
 
 
-**Zsh &amp; Oh-My-Zsh**
+
+## Zsh &amp; Oh-My-Zsh
 
     brew install zsh
     curl -L https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh | sh
@@ -54,7 +61,9 @@ list of [local](gems.md) installed gems:
 
     plugins=(git ruby bower brew bundler gem github jira macports osx sublime vagrant web-search)
 
-**Git**  
+
+## Git
+
 Let's just use homebrew to install it.
 
     brew install git
@@ -68,11 +77,14 @@ Let's just use homebrew to install it.
 
 *If you're not using the dotfiles below, remember to add .DS_Store to your global .gitignore file.*
 
-[**Git Extras**](https://github.com/visionmedia/git-extras)
+[
+### [Git Extras](https://github.com/visionmedia/git-extras)
 
     brew install git-extras
 
-**SSH Keys**  
+
+## SSH Keys
+
 *If you'd rather copy your keys over, have a look at [Mackup](https://github.com/lra/mackup)*
     
     # check for SSH key, if not create one
@@ -84,33 +96,43 @@ Let's just use homebrew to install it.
 If you are the type that doesn't like entering their passphrase all the time, have a look at SSH agent forwarding https://help.github.com/articles/using-ssh-agent-forwarding.
 
 
-**Dotfiles**  
+
+## Dotfiles
+
 If you haven't already got your own dotfiles repository, then go to [dotfiles.github.io](http://dotfiles.github.io) and behold the magic
 
-**Fresh**  
+
+## Fresh
+
 Keeps your dot files fresh http://freshshell.com
 
 *To discover all the hidden Mac OS X settings you could ever think of, go to http://lri.me/osx.html#hidden-preferences*
 
-**Zero Hosts File**
+
+## Zero Hosts File
+
 Template /etc/hosts file which stops porn, ads and other sites from functioning by pointing to localhost: http://someonewhocares.org/hosts/zero/
 
-### Drupal
+## Drupal
 
-**Drush**  
+
+### Drush
+
 Install the latest stable version of Drush using homebrew
 
     brew install drush
 
 
-### Vagrant
+## Vagrant
 
 Current setup at https://github.com/mikebelldrupaldev-nginx
+
 
 **vagrant-vbplugin** Vagrant plugin which automatically installs the host's VirtualBox Guest Additions on the guest system  
 ````bash gem install vagrant-vbguest```` or [GitHub repo](https://github.com/dotless-de/vagrant-vbguest)
 
 #### Puppet
+
 Also look at http://puphpet.com
 
 #### Ngrok
