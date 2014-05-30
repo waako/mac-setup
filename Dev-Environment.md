@@ -4,6 +4,14 @@ Let everyone know where Xcode is:
 
     sudo xcode-select -switch /Applications/Xcode.app/Contents/Developer
 
+**Ruby**
+
+RVM
+
+    \curl -sSL https://get.rvm.io | bash -s stable --rails --autolibs=enabled --auto-dotfiles
+    source /Users/waako/.rvm/scripts/rvm
+
+
 **Homebrew**  
 Package manager http://brew.sh
 
@@ -89,14 +97,6 @@ Template /etc/hosts file which stops porn, ads and other sites from functioning 
 Install the latest stable version of Drush using homebrew
 
     brew install drush
-
-RVM
-
-    curl -L https://get.rvm.io | bash -s stable --ruby
-
-Append to .zshrc
-
-    [[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm"  # This loads RVM into a shell session
 
 
 ### Vagrant
