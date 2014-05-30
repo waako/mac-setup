@@ -105,7 +105,7 @@ Install the latest stable version of Drush using homebrew
 
 ### Vagrant
 
-Current setup at https://github.com/drupaldev-nginx  
+Current setup at https://github.com/mikebelldrupaldev-nginx
 
 **vagrant-vbplugin** Vagrant plugin which automatically installs the host's VirtualBox Guest Additions on the guest system  
 ````bash gem install vagrant-vbguest```` or [GitHub repo](https://github.com/dotless-de/vagrant-vbguest)
