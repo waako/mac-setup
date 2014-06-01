@@ -116,12 +116,19 @@ Template /etc/hosts file which stops porn, ads and other sites from functioning 
 ## Drupal
 
 
-### Drush
+### [Drush](https://github.com/drush-ops/drush)
 
-Install the latest stable version of Drush using homebrew
+For the latest version (7.x which enables you to install/manage Drupal 8) [install](https://github.com/drush-ops/drush#installupdate---composer) you will need to install [Composer](https://getcomposer.org/doc/00-intro.md#system-requirements) which you can do via [homebrew](https://getcomposer.org/doc/00-intro.md#globally-on-osx-via-homebrew-)
 
-    brew install drush
+	brew update
+	brew tap josegonzalez/homebrew-php
+	brew tap homebrew/versions
+	brew install php55-intl
+	brew install josegonzalez/php/composer
 
+Then install Drush 7.x (dev) itself)
+
+	composer global require drush/drush:dev-master
 
 ## Vagrant
 
