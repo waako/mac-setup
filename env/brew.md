@@ -1,18 +1,28 @@
 # Homebrew
 
 ## Known packages
+
 bash-completion  
-dnsmasq  
-drush  
-hub  
+dnsmasq   
+composer  
+get_iplayer  
+git-flow  
 git-extras  
+hub  
+lynx  
+mackup  
 memcached  
 mercurial  
 mysql  
 node  
+php5*    
+rename  
+sqlite  
+todo-txt  
+wget  
 zsh  
 zsh-completions  
-wget  
+
 
 ## All packages
 
