@@ -126,7 +126,7 @@ For the latest version (7.x which enables you to install/manage Drupal 8) [insta
 	brew install php55-intl
 	brew install josegonzalez/php/composer
 
-Then install Drush 7.x (dev) itself)
+Then install Drush 7.x (dev) itself:
 
 	composer global require drush/drush:dev-master
 
