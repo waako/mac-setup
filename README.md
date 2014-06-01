@@ -8,7 +8,7 @@ List of software, extensions, and how everything is setup.
 ## Essential
 
 * [1Password](http://agilebits.com/onepassword)
-Restore keychain from Dropbox folder (/Apps/1Password)
+*Restore keychain from Dropbox folder (/Apps/1Password)*
 
 * [Alfred V2 with Powerpack](http://alfredapp.com/)
 * [Cyberduck](http://cyberduck.ch/)
@@ -17,7 +17,7 @@ Restore keychain from Dropbox folder (/Apps/1Password)
 * [Evernote](http://evernote.com)
 * [Fantastical](http://flexibits.com/fantastical)
 * [Glui](http://glui.me)
-* [iTerm](http://iterm2.com)
+* [iTerm](http://iterm2.com) [*(set to sync via dropbox)*](http://apple.stackexchange.com/questions/89098/sync-apps-preferences-between-multiple-macs)
 * [Kaleidoscope](http://kaleidoscopeapp.com/)
 * [Mozille Firefox](http://www.mozilla.org/firefox/)
 * [Google Chrome](https://chrome.google.com)
