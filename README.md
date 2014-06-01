@@ -25,8 +25,8 @@ Restore keychain from Dropbox folder (/Apps/1Password)
 * Google Chrome Canary
 * [Apple Safari](http://www.apple.com/safari/)
 * Opera
-* [Sketch2](http://www.bohemiancoding.com/sketch/)
-* [Sublime Text](www.sublimetext.com)
+* [Sketch 2](http://www.bohemiancoding.com/sketch/)
+* [Sublime Text 3](www.sublimetext.com)
 * [Vagrant](http://vagrantup.com)
 * [VirtualBox](http://virtualbox.org)
 * [XCode - Developer Tools](https://developer.apple.com/xcode/)
