@@ -27,21 +27,6 @@ Package manager http://brew.sh
     ruby <(curl -fsSkL raw.github.com/mxcl/homebrew/go)
     brew doctor
 
-list of [local](gems.md) installed gems:  
-* bundler
-* compass
-* compass-normalize
-* github
-* psd (no idea how to use)
-* puppet
-* rack
-* rhc (redhat's OpenShift)
-* sass
-* singularitygs
-* vagrant-vbguest
-
-
-
 ## Zsh &amp; Oh-My-Zsh
 
     brew install zsh
@@ -60,6 +45,7 @@ list of [local](gems.md) installed gems:
 *don't forget to enable all the plugins you'll need https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins in your <pre>~/.zshrc</pre>*
 
     plugins=(git ruby bower brew bundler gem github jira macports osx sublime vagrant web-search)
+Add drush plugin for zsh
 
 
 ## Git
@@ -155,19 +141,3 @@ Also look at http://puphpet.com
 
 For example, you can tell ngrok to use a specific subdomain and basic httpauth:  
 $ ``ngrok -subdomain="my-subdomain" -httpauth="user:password" 8080``
-
-## Front-end tools
-
-First check Ruby gems are up to date
-    gem update --system
-
-[**SASS**](http://sass-lang.com/)
-    gem install sass
-
-[**Compass**](http://compass-style.org/install/)
-    gem install compass
-
-[**Singularity**](http://singularity.gs/)
-    gem install singularitygs
-
-*Use [Bundler](http://bundler.io/) Gemfile to define your project's dependencies*
