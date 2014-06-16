@@ -72,3 +72,4 @@ List of software, extensions, and how everything is setup.
 
 * [Choosy](http://www.choosyosx.com/)
 * [HyperDock](http://hyperdock.bahoom.com/)
+* [LaunchRocket](https://github.com/jimbojsb/launchrocket)
