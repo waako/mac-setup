@@ -78,3 +78,86 @@ List of software, extensions, and how everything is setup.
 * [Choosy](http://www.choosyosx.com/)
 * [HyperDock](http://hyperdock.bahoom.com/)
 * [LaunchRocket](https://github.com/jimbojsb/launchrocket)
+
+### Installed (16/06/2014)
+
+* 1Password 4
+* Alfred 2
+* App Store
+* Atom
+* Automator
+* Cakebrew
+* Calculator
+* Calendar
+* Chess
+* CleanMyMac 2
+* Clearview
+* Contacts
+* Cyberduck
+* DaisyDisk
+* Dashboard
+* Dictionary
+* Doxie
+* Dropbox
+* DVD Player
+* Evernote
+* FaceTime
+* Fantastical
+* Firefox
+* Fluid
+* Flux
+* Font Book
+* Freeagent
+* Game Center
+* Google Chrome - Beta
+* Google Chrome
+* Growl
+* iBooks
+* Icon Slate
+* IDLE
+* Image Capture
+* iOS Simulator
+* iPhoto
+* iTerm
+* iTunes
+* /iWork '09
+* Kaleidoscope
+* Keynote
+* Launchpad
+* Linkinus
+* MacPaw Gemini
+* Mail
+* Maps
+* Messages
+* Mission Control
+* Monosnap
+* Notes
+* Numbers
+* Pages
+* Photo Booth
+* Preview
+* Python Launcher
+* QuickTime Player
+* ReadKit
+* Reminders
+* RescueTime
+* Safari
+* Sequel Pro
+* Sketch 3
+* Skype
+* Slife
+* Spotify
+* Stickies
+* Sublime Text 3
+* System Preferences
+* TextEdit
+* The Unarchiver
+* Time Machine
+* TodoTxtMac
+* Todour
+* /Utilities
+* /Vagrant
+* VirtualBox
+* VLC
+* Xcode
+* xScope
