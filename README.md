@@ -19,7 +19,7 @@ List of software, extensions, and how everything is setup.
 * [Glui](http://glui.me)
 * [iTerm](http://iterm2.com) [*(set to sync via dropbox)*](http://apple.stackexchange.com/questions/89098/sync-apps-preferences-between-multiple-macs)
 * [Kaleidoscope](http://kaleidoscopeapp.com/)
-* [Mozille Firefox](http://www.mozilla.org/firefox/)
+* [Mozille Firefox](http://www.mozilla.org/firefox/) [*(setup multiple profiles)*](https://support.mozilla.org/en-US/kb/profile-manager-create-and-remove-firefox-profiles)
   * [Firefox Stable](http://www.mozilla.org/en-US/firefox/all/?q=English%20(British))
   * [Firefox Beta](http://www.mozilla.org/en-US/firefox/beta/all/?q=English%20(British))
   * [Firefox Aurora](http://www.mozilla.org/en-US/firefox/aurora/all/?q=English%20(British))
