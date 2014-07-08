@@ -28,7 +28,10 @@ List of software, extensions, and how everything is setup.
   * [Chrome Beta](https://www.google.com/intl/en/chrome/browser/beta.html)
   * [Chrome Canary](https://www.google.com/intl/en/chrome/browser/canary.html)
 * [Apple Safari](http://www.apple.com/safari/)
-* Opera
+* [Opera](http://www.opera.com) [*(DragonFly dev tools)*](http://www.opera.com/dragonfly/)
+  * [Opera Stable](http://www.opera.com/computer) 
+  * [Opera Next](http://www.opera.com/computer/next)
+  * [Opera for Developers](http://www.opera.com/developer)
 * [Sketch 2](http://www.bohemiancoding.com/sketch/)
 * [Sublime Text 3](www.sublimetext.com)
 * [Vagrant](http://vagrantup.com)
