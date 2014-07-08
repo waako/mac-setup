@@ -20,9 +20,12 @@ List of software, extensions, and how everything is setup.
 * [iTerm](http://iterm2.com) [*(set to sync via dropbox)*](http://apple.stackexchange.com/questions/89098/sync-apps-preferences-between-multiple-macs)
 * [Kaleidoscope](http://kaleidoscopeapp.com/)
 * [Mozille Firefox](http://www.mozilla.org/firefox/)
+  * [Mozilla Firefox Stable](http://www.mozilla.org/en-US/firefox/all/?q=English%20(British) 
+  * [Mozille Firefox Beta](http://www.mozilla.org/en-US/firefox/beta/all/?q=English%20(British)
+  * [Mozilla Firefox Aurora](http://www.mozilla.org/en-US/firefox/aurora/all/?q=English%20(British)
 * [Google Chrome](https://chrome.google.com)
-* Google Chrome Beta
-* Google Chrome Canary
+  * Google Chrome Beta
+  * Google Chrome Canary
 * [Apple Safari](http://www.apple.com/safari/)
 * Opera
 * [Sketch 2](http://www.bohemiancoding.com/sketch/)
