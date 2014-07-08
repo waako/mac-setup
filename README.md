@@ -24,8 +24,9 @@ List of software, extensions, and how everything is setup.
   * [Firefox Beta](http://www.mozilla.org/en-US/firefox/beta/all/?q=English%20(British)
   * [Firefox Aurora](http://www.mozilla.org/en-US/firefox/aurora/all/?q=English%20(British)
 * [Google Chrome](https://chrome.google.com)
-  * Chrome Beta
-  * Chrome Canary
+  * [Chrome Stable](https://www.google.com/intl/en/chrome/browser/)
+  * [Chrome Beta](https://www.google.com/intl/en/chrome/browser/beta.html)
+  * [Chrome Canary](https://www.google.com/intl/en/chrome/browser/canary.html)
 * [Apple Safari](http://www.apple.com/safari/)
 * Opera
 * [Sketch 2](http://www.bohemiancoding.com/sketch/)
