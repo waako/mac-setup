@@ -1,0 +1,44 @@
+{
+  "bold_folder_labels": true,
+  "caret_style": "wide",
+  "color_scheme": "Packages/Theme - Nexus/Nexus.tmTheme",
+  "default_line_ending": "unix",
+  "dictionary": "Packages/Language - English/en_GB.dic",
+  "draw_white_space": "all",
+  "ensure_newline_at_eof_on_save": true,
+  "fade_fold_buttons": false,
+  "fallback_encoding": "UTF-8",
+  "find_selected_text": true,
+  "font_options":
+  [
+    "subpixel_antialias"
+  ],
+  "font_size": 15,
+  "highlight_line": true,
+  "ignored_packages":
+  [
+    "Vintage",
+    "LESS",
+    "ScrollOffset",
+    "sublime-todotxt",
+    "Vagrant"
+  ],
+  "line_numbers": true,
+  "line_padding_bottom": 1,
+  "open_files_in_new_window": false,
+  "rulers":
+  [
+    80
+  ],
+  "shift_tab_unindent": true,
+  "tab_size": 2,
+  "theme": "Nexus.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "trim_automatic_white_space": true,
+  "trim_trailing_white_space_on_save": false,
+  "use_tab_stops": true,
+  "wombat_color_blue": true,
+  "wombat_dirty_bottom_bar_blue": true,
+  "word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?",
+  "word_wrap": true
+}
