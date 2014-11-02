@@ -10,6 +10,7 @@ http://www.alfredworkflow.com
 # Browsers
 ## Safari
 * 1Password
+* Pinbar Beta
 * Awesome Status Bar
 * Evernote web clipper
 * Better source
