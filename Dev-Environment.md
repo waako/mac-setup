@@ -27,6 +27,14 @@ Package manager http://brew.sh
     ruby <(curl -fsSkL raw.github.com/mxcl/homebrew/go)
     brew doctor
 
+## Homebrew Cask (install applications directly from terminal)
+
+    brew install caskroom/cask/brew-cask
+    # tap cask-versions for most recent application binaries
+    brew tap caskroom/versions
+    # example of applications
+    brew cask install alfred atom cakebrew cleanmymac cyberduck daisydisk dropbox evernote fantastical flux firefox firefox-beta-gb firefox-aurora fluid google-chrome google-chrome-beta google-chrome-canary iterm2 kaleidoscope sequel-pro skype sublime-text3 virtualbox vlc xscope vagrant the-unarchiver todotxtmac cheatsheet choosy launchrocket toggldesktop rescuetime
+
 ## Zsh &amp; Oh-My-Zsh
 
     brew install zsh
