@@ -19,6 +19,9 @@ RVM
 
 Installing an up to date version of Ruby will allow to run ````gem install package```` without sudo.
 
+## Node.js
+
+Install Package from [Node.js website http://nodejs.org](http://nodejs.org)
 
 ## Homebrew
 
@@ -131,10 +134,6 @@ Current setup at https://github.com/mikebelldrupaldev-nginx
 
 **vagrant-vbplugin** Vagrant plugin which automatically installs the host's VirtualBox Guest Additions on the guest system  
 ````bash gem install vagrant-vbguest```` or [GitHub repo](https://github.com/dotless-de/vagrant-vbguest)
-
-#### Puppet
-
-Also look at http://puphpet.com
 
 #### Ngrok
 
