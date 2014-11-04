@@ -120,7 +120,9 @@ For the latest version (7.x which enables you to install/manage Drupal 8) [insta
 	brew update
 	brew tap josegonzalez/homebrew-php
 	brew tap homebrew/versions
-	brew install php55-intl
+	brew tap homebrew/dupes
+	brew tap homebrew/php
+	brew install php55
 	brew install josegonzalez/php/composer
 
 Then install Drush 7.x (dev) itself:
