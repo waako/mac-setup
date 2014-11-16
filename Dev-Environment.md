@@ -30,7 +30,13 @@ Package manager http://brew.sh
     ruby <(curl -fsSkL raw.github.com/mxcl/homebrew/go)
     brew doctor
 
-## Homebrew Cask (install applications directly from terminal)
+### [Homebrew Services](http://robots.thoughtbot.com/starting-and-stopping-background-services-with-homebrew) (start/stop background services)
+
+    brew tap homebrew/boneyard
+    # example command:
+    brew services mysql start
+
+### Homebrew Cask (install applications directly from terminal)
 
     brew install caskroom/cask/brew-cask
     # tap cask-versions for most recent application binaries
