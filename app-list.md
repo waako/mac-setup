@@ -1,10 +1,11 @@
 ### Installed (01/02/2016)
+\* **Mac App Store**
 
 * 1Password 6.app
-* Affinity Designer.app
-* Affinity Photo.app
+* **Affinity Designer.app**
+* **Affinity Photo.app**
 * App Store.app
-* Archy.app
+* Archy.app*
 * Automator.app
 * Calculator.app
 * Calendar.app
@@ -13,7 +14,7 @@
 * Cisco
 * Contacts.app
 * CrashPlan.app
-* Dash.app
+* **Dash.app**
 * Dash.localized
 * Dashboard.app
 * Dictionary.app
@@ -37,16 +38,16 @@
 * join.me.app
 * Kaleidoscope.app
 * Kashflow.app
-* Keynote.app
+* **Keynote.app**
 * Launchpad.app
 * LICEcap.app
 * Mail.app
 * Maps.app
-* Markdown Plus.app
+* **Markdown Plus.app**
 * Messages.app
 * Mission Control.app
 * Notes.app
-* Numbers.app
+* **Numbers.app**
 * Pages.app
 * Photo Booth.app
 * Photos.app
@@ -56,15 +57,15 @@
 * Reminders.app
 * Remove Sophos Anti-Virus.app
 * Safari.app
-* Sketch.app
+* **Sketch.app**
 * Sophos Anti-Virus.app
 * Spectacle.app
-* Spectrum.app
+* **Spectrum.app**
 * Stickies.app
-* Sunrise Calendar.app
+* **Sunrise Calendar.app**
 * System Preferences.app
-* Telegram.app
-* Telephone.app
+* **Telegram.app**
+* **Telephone.app**
 * TextEdit.app
 * Time Machine.app
 * Tomahawk.app
@@ -73,6 +74,6 @@
 * Vagrant
 * Viscosity.app
 * VPN Unlimited.app
-* WiFi Signal.app
-* Wunderlist.app
-* Xcode.app
+* **WiFi Signal.app**
+* **Wunderlist.app**
+* **Xcode.app**
