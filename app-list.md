@@ -5,7 +5,7 @@
 * **Affinity Designer.app**
 * **Affinity Photo.app**
 * App Store.app
-* Archy.app*
+* **Archy.app**
 * Automator.app
 * Calculator.app
 * Calendar.app
