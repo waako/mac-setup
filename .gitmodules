@@ -1,3 +1,6 @@
 [submodule "dotfiles"]
 	path = dotfiles
 	url = https://github.com/waako/dotfiles.git
+[submodule "macbook-provisioning"]
+	path = macbook-provisioning
+	url = git@github.com:waako/macbook-provisioning.git
