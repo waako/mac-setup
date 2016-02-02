@@ -4,3 +4,6 @@
 [submodule "macbook-provisioning"]
 	path = macbook-provisioning
 	url = git@github.com:waako/macbook-provisioning.git
+[submodule "mac-dev-playbook"]
+	path = mac-dev-playbook
+	url = git@github.com:waako/mac-dev-playbook.git
